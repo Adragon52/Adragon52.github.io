@@ -232,7 +232,7 @@ params:
           name: "Lycée Charles de Gaulle"
           url: "https://example.org"
         date: "2013 - 2015"
-        image: "/images/CDG.jpg"
+        image: "public/images/CDG.jpg"
         GPA: ""
         content: |-
           Art appliqué
