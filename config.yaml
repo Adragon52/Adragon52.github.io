@@ -206,6 +206,7 @@ params:
         featuredLink:
           enable: true
           url: "https://example.com"
+          image: "/images/CDG.jpg"
         content: |
           J'ai travaillé avec Jérémy en tant qu'informaticien du lycée. J'ai plus fais du réseau comme l'aurais voulu le monde mais au final ça n'a fait que de me rappelé que j'ai été totalement idiot d'avoir choisi l'option SLAM au lieu de l'option SISR qui m'aurait promis un avenir radieux.
 
@@ -216,6 +217,7 @@ params:
         featuredLink:
           enable: true
           url: "https://example.com"
+          image: "/images/Bezout.jpg"
         content: |
           J'ai programmé comme le voulait mon option inférieure une application en intranet afin d'afficher un tableau montrant les noms des élèves et leurs travaux et tous ça trié par année.
 
@@ -230,6 +232,7 @@ params:
           name: "Lycée Charles de Gaulle"
           url: "https://example.org"
         date: "2013 - 2015"
+        image: "/images/CDG.jpg"
         GPA: ""
         content: |-
           Art appliqué
