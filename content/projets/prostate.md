@@ -1,8 +1,7 @@
 ---
-title: "Render Math With Mathjax"
-date: 2022-12-09T19:53:33+05:30
+title: "Stage de 1ère année"
 draft: false
-author: "Gurusabarish"
+author: "Au lycée Charles de Gaulle"
 tags:
   - Markdown syntax
   - Mathjax
