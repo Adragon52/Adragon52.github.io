@@ -125,7 +125,7 @@ params:
     enable: true
     intro: "Bonjour"
     title: "Bienvenue sur mon"
-    subtitle: "PortFolio bubulubu"
+    subtitle: "PortFolio"
     content: "Ci dessous mon véritable portfolio"
     image: /images/grand-corps-malade.jpeg
     bottomImage:
