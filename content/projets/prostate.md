@@ -13,20 +13,7 @@ toc: true
 mathjax: true
 ---
 
-## Mathjax
-
+## 1er Stage SIO
 Voici mon 1er Stage de SIO
 
 J'ai fais du hardware et installer des ordis dans des salles
-
-```
-$$ oui $$
-```
-
-
-Write in-line equations with `\\( ... \\)` , like \\( x^n / y \\) . It's easy!
-
-```
-Write in-line equations with `\\( ... \\)` , like \\( x^n / y \\) . It's easy!
-```
-
